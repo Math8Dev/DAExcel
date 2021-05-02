@@ -20,3 +20,6 @@ Analysing Brazil death numbers over time:
     Applying a "média movel" algorithm over the data to soften the curve and consider errors on daily sampling
         (deaths on the weekend are logged only at the begging of the week)
     Plotting data on a curve graph (deaths over time)
+
+Analysing percentage of deaths per Brazil's regions:
+    New dynamic table to extract data
