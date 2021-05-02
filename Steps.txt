@@ -23,3 +23,5 @@ Analysing Brazil death numbers over time:
 
 Analysing percentage of deaths per Brazil's regions:
     New dynamic table to extract data
+
+Mounting a dashboard to finish the analysis
