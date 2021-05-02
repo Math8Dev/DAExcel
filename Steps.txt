@@ -8,3 +8,7 @@ Editing the data:
     Transforming columns into rows
     Naming the column 
     Explicitly setting the data format
+
+Collecting data from individual states:
+    Creating dynamic table
+
