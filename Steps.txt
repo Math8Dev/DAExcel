@@ -1,0 +1,10 @@
+Importing Data from WEB:
+    The repository https://github.com/elhenrico/covid19-Brazil-timeseries/blob/master/deaths-new.csv
+    constains Brazil's dated deaths from COVID19.
+    To import data form WEB on Excel, it's needed to access the "RAW" data format
+
+Editing the data:
+    Define the header 
+    Transforming columns into rows
+    Naming the column 
+    Explicitly setting the data format
