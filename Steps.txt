@@ -12,3 +12,5 @@ Editing the data:
 Collecting data from individual states:
     Creating dynamic table
 
+Displaying data from individual states:
+    Creating Brazil's map with states data
