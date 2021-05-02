@@ -14,3 +14,9 @@ Collecting data from individual states:
 
 Displaying data from individual states:
     Creating Brazil's map with states data
+
+Analysing Brazil death numbers over time:
+    Filtering Brazil from data setting
+    Applying a "média movel" algorithm over the data to soften the curve and consider errors on daily sampling
+        (deaths on the weekend are logged only at the begging of the week)
+    Plotting data on a curve graph (deaths over time)
