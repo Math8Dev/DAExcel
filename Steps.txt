@@ -25,3 +25,9 @@ Analysing percentage of deaths per Brazil's regions:
     New dynamic table to extract data
 
 Mounting a dashboard to finish the analysis
+
+Analysing accumulated deaths per country:
+    Data from https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv
+    Gather multiple country regions data using dynamic tables
+    Add continent and flag to each country
+    Upload data on "bar chart race" from https://app.flourish.studio/templates
