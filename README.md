@@ -21,3 +21,6 @@ Excel:
 - Acesso de dados web
 - Gráficos e Mapas
 - Formatação Condicional
+
+## Aprendizado
+Levantar perguntas pertinentes para serem respondidos com a análise. 
